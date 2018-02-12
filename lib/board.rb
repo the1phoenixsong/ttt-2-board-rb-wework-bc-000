@@ -1,5 +1,6 @@
 # Define the variable board below.
-board = [puts "   |   |   "
+def display_board
+puts "   |   |   "
 puts "------------"
 puts "   |   |   "
 puts "------------"
