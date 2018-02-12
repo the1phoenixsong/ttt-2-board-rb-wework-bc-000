@@ -1,9 +1,9 @@
 # Define the variable board below.
-puts "   |   |   "
+board = [puts "   |   |   "
 puts "------------"
 puts "   |   |   "
 puts "------------"
-puts "   |   |   "
+puts "   |   |   "]
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " ",]
 row = [" ", " ", " "]
