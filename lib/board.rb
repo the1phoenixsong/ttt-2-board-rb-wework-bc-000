@@ -1,5 +1,6 @@
 # Define the variable board below.
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+
 def display_board
   puts "   |   |   "
   puts "------------"
@@ -7,4 +8,5 @@ def display_board
   puts "------------"
   puts "   |   |   "
 end
+
 display_board
